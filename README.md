@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning and Big Data
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me gursedat84 via skype
+- 📫 How to reach me gursedat via skype
 
 <!---
 gursedat/gursedat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
